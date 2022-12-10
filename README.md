@@ -28,3 +28,12 @@
      <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
      <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
+
+<div align="center"><h2> :octocat: My Github Statistics </h2></div>
+<br>
+  <a href="https://github.com/Natsu04499">
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nieru&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Natsu04499&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Natsu04499 @ Github stats"/>
+    </div>
+</a>
