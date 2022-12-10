@@ -1,12 +1,13 @@
-### Hi i'm Rayan 👹
+<div align="center"><h1> Hi i'm Rayan 👹</h1></div>
 
+<div align="center">
+     👨‍🎓 Second year computer science student <br>
+     🔭 I’m currently working on some secret project... <br>
+     🌱 I’m currently learning Java and JS <br>
+     ⚡ Fun fact: I love coding some minecraft plugins <br>     
+</div>
 
-- 👨‍🎓 Second year computer science student
-- 🔭 I’m currently working on some secret project...
-- 🌱 I’m currently learning Java and JS
-- ⚡ Fun fact: I love coding some minecraft plugins
-
-### Progamming langages that I use :
+<div align="center"><h1> Technologies that I use : </h1></div>
 
 <div align="center">
      <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,10 +21,10 @@
 </div>
     
 
-### The languages I intend to learn :
+<div align="center"><h1> The languages I intend to learn : </h1></div>
 
  <div align="center">
-        <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-        <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+     <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
