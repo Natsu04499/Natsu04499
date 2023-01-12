@@ -29,11 +29,20 @@
      <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 
-<div align="center"><h2> :octocat: My Github Statistics </h2></div>
+
+<div align="center"><h2> :octocat: My Sandwich Course Project </h2></div>
+
+<div align="center">
+     <a href="https://campus-riera.com" target="_blank"><img alt="Campus Riera" src="https://scontent-mrs2-1.xx.fbcdn.net/v/t39.30808-6/247693622_1570084770004028_3442177761391256939_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NSQJngJk6XUAX8ZY_nI&_nc_ht=scontent-mrs2-1.xx&oh=00_AfAiGdFabnyenhKR-bTGPjDyxgPP_IImBPOfrRWwohqk-g&oe=63C48F22" width="100" height="70"></a>
+     <a href="https://campus-riera.com/extranet/message.php" target="_blank"><img alt="Message" src="https://www.webgazelle.net/scripts/files/5f897cfd5c24a5.68503310/picto-messagerie-interne-2-1.png" width="100" height="80"></a>
+     <a href="https://campus-riera.com/extranet/hometest.php" target="_blank"><img alt="Todo" src="https://m.media-amazon.com/images/I/31RvOPlfH7L.png" width="100" height="70"></a>
+</div>
+
+<!-- <div align="center"><h2> :octocat: My Github Statistics </h2></div>
 <br>
   <a href="https://github.com/Natsu04499">
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsu04499&layout=compact&theme=dark" />
         <img src="https://github-readme-stats.vercel.app/api?username=Natsu04499&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Natsu04499 @ Github stats"/>
     </div>
-</a>
+</a> -->
