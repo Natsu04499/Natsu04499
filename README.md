@@ -1,9 +1,9 @@
 <div align="center"><h1> Hi i'm Rayan 👹</h1></div>
 
 <div align="center">
-     👨‍🎓 Second year computer science student <br>
+     👨‍🎓 Junior Developer<br>
      🔭 I’m currently working on some secret project... <br>
-     🌱 I’m currently learning Java and JS <br>
+     🌱 I’m currently learning LUA and C++ <br>
      ⚡ Fun fact: I love coding some minecraft plugins <br>     
 </div>
 
