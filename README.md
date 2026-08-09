@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **XR**
 
-- 📫 How to reach me **echrifrayan@gmail.com**
+- 📫 How to reach me **natsu04499@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
